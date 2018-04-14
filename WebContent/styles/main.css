@@ -1,0 +1,29 @@
+body{
+	padding: 1% 10% 1% 10%;
+}
+
+form{
+  padding: 1.5% 1.5% 1.5% 1.5%;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: #ccefff;
+  border-radius: 5px;
+}
+
+.input-group{
+  padding-bottom: 1.3%;
+}
+
+em{
+	color: red;
+}
+
+.backplate{
+  background-color: #e6f7ff;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+  padding-top: 1%;
+  padding-bottom: 8%;
+  padding-left: 1.5%;
+  padding-right: 1.5%;
+}
